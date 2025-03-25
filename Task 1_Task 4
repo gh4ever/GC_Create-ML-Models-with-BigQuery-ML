@@ -79,7 +79,9 @@ FROM
   USING (fullVisitorId)
 ));
 
-----
+-----------
+## It's still Task 2. Open another query and execute the following code.
+-----------
 
 #standardSQL
 SELECT
